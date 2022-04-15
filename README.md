@@ -1,2 +1,2 @@
 # pandas_demo
-pandas数据处理练习
+用pandas包进行数据清洗及分析
